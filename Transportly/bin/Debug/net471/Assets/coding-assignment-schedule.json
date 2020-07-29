@@ -1,0 +1,40 @@
+{
+  "1": {
+    "Flights": [
+      {
+        "flightId": "1",
+        "departure": "YUL",
+        "arrival": "YYZ"
+      },
+      {
+        "flightId": "2",
+        "departure": "YUL",
+        "arrival": "YYC"
+      },
+      {
+        "flightId": "3",
+        "departure": "YUL",
+        "arrival": "YVR"
+      }
+    ]
+  },
+  "2": {
+    "Flights": [
+      {
+        "flightId": "4",
+        "departure": "YUL",
+        "arrival": "YYZ"
+      },
+      {
+        "flightId": "5",
+        "departure": "YUL",
+        "arrival": "YYC"
+      },
+      {
+        "flightId": "6",
+        "departure": "YUL",
+        "arrival": "YVR"
+      }
+    ]
+  }
+}
